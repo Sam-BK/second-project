@@ -1,0 +1,2 @@
+Here is a new file to test how branching works.
+GIT doesn't care about untracked file.
