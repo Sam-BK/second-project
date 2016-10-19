@@ -1,4 +1,4 @@
 Here is a new file to test how branching works.
 GIT doesn't care about untracked files. 
 
-I have editted this file in the remote repo.
+I have edited this file in the remote repo.
